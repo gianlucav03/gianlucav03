@@ -1,4 +1,4 @@
-### hi, I'm Gianluca 👋
+### Hi, I'm Gianluca 👋
 
 Finance & markets · building quant tools in Python, for fun and to learn.
 
